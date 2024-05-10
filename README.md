@@ -2,6 +2,8 @@
 
 fix https://github.com/zylon-ai/private-gpt/issues/1584#issuecomment-1938464222 
 
+run one-click-installer.bat
+
 ```bat
 
       CMake Error at CMakeLists.txt:3 (project):
