@@ -22,7 +22,7 @@ IF NOT "%VIRTUAL_ENV%" == "" (
     ECHO Virtual environment activated.
     ECHO Installing dependencies...
     %python% -m pip install --upgrade pip
-    %python% -m pip install -r requirements.txt
+    %python% -m pip install -r required\requirements.txt
     ECHO Dependencies installed.
     
     REM Check if the specified pyfile exists, if not, find the first .py file except __init__.py
