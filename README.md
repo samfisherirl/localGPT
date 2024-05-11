@@ -1,4 +1,5 @@
-# Fork of LocalGPT: Secure, Local Conversations with Your Documents 🌐
+# Fork of LocalGPT: One-Click-Installer without Conda 🌐
+### Including a fix for llama-cpp-py 
 
 fix https://github.com/zylon-ai/private-gpt/issues/1584#issuecomment-1938464222 
 
