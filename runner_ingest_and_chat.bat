@@ -24,12 +24,12 @@ if errorlevel 1 goto option1
 
 :option1
 echo Running ingest.py with CUDA...
-python ingest.py --device_type cuda
+python required\ingest.py --device_type cuda
 goto end
 
 :option2
 echo Running run_localGPT.py with CUDA...
-python run_localGPT.py --device_type cuda
+python required\run_localGPT.py --device_type cuda
 goto end
 
 :end
