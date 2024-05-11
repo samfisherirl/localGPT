@@ -5,6 +5,8 @@ fix https://github.com/zylon-ai/private-gpt/issues/1584#issuecomment-1938464222
 
 run one-click-installer.bat
 
+Before relying on this for a fix, make sure you install Visual Studio Build Tools, select C++ Desktop Developement, including optional Windows 10 SDK 
+
 ```bat
 
       CMake Error at CMakeLists.txt:3 (project):
