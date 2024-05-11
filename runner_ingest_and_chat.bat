@@ -1,5 +1,5 @@
 @echo off
-SET venv_dir=venv
+SET venv_dir=required\venv
 SET python=%venv_dir%\Scripts\python.exe
 
 REM Check if the virtual environment directory exists

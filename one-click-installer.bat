@@ -1,6 +1,6 @@
 @echo off
-SET venv_dir=venv
-SET pyfile=main.py
+SET venv_dir=required\venv
+SET pyfile=required\main.py
 SET python=%venv_dir%\Scripts\python.exe
 set LLAMA_CUBLAS="1"
 set FORCE_CMAKE="1"
